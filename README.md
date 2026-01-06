@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Lau (Laudivan) 👋
+### Senior DevOps Engineer | Infrastructure Architect | CS Bachelor | IT Management Specialist
 
-<!--
-**laudivan/laudivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"I've been taming servers since before 'Cloud' was a buzzword."*
 
-Here are some ideas to get you started:
+I am a **Senior Infrastructure Specialist** with over **20 years of experience** bridging the gap between hardware, OS, and software development. Based in Brazil, looking for global opportunities (Remote/Relocation).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background isn't just "using tools"; it's about deep understanding of **Linux/Windows internals**, networking, and building resilient systems. I combine the rigor of a **Computer Science** background with the strategic view of **IT Management**.
+
+---
+
+### 🛠️ The Arsenal (Tech Stack)
+
+I treat Infrastructure as Code, but I know how to fix it when the code breaks the infrastructure.
+
+* **Core Engineering:** C, Python, Java, Shell Scripting (Bash/PowerShell).
+* **Operating Systems:** Linux (RHEL, Debian, CentOS - Deep internals), Windows Server (AD, GPO, IIS).
+* **DevOps & Cloud:** Docker, Podman, CI/CD Pipelines (Jenkins/GitLab CI), AWS/Azure basics.
+* **Observability & Management:** Zabbix, Ansible, Terraform.
+* **Database:** PostgreSQL, MySQL/MariaDB, SQL Server (Administration & Tuning).
+
+---
+
+### 🧠 Engineering Philosophy
+
+* **Automation First:** If I have to do it twice, I script it. If I have to do it thrice, I build a system for it.
+* **Root Cause Analysis:** I don't apply patches; I fix the underlying architectural flaw.
+* **Interdisciplinary Approach:** My AH/SD (Giftedness) profile drives me to constantly learn and connect dots that others miss, from low-level optimization to high-level project management.
+
+---
+
+### 💼 Career Highlights
+
+* **DevOps Integration:** Led the cultural and technical shift to DevOps at previous enterprise roles (e.g., Aliare), automating build/deploy processes that reduced release times drastically.
+* **Hybrid Infrastructure:** Designed and managed hybrid environments (On-premise + Cloud) for high-availability systems.
+* **Legacy to Modern:** Expert in modernizing legacy monolithic infrastructure without breaking production.
+
+---
+
+### 📬 Get in Touch
+
+I value direct communication and complex challenges.
+
+* **Email:** almeida@laudivan.eti.br
+* **Location:** Petrolina, Brazil (GMT-3)
+
+---
+
+![Laudivan Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=laudivan&show_icons=true&theme=dark&hide_border=true)
