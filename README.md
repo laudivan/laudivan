@@ -41,7 +41,7 @@ I treat Infrastructure as Code, but I know how to fix it when the code breaks th
 
 I value direct communication and complex challenges.
 
-* **Email:** almeida@laudivan.eti.br
+* **Email:** laudivan@gmail.com
 * **Location:** Petrolina, Brazil (GMT-3)
 
 ---
