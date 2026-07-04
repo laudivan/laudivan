@@ -45,5 +45,4 @@ I value direct communication and complex challenges.
 * **Location:** Petrolina, Brazil (GMT-3)
 
 ---
-
-![Laudivan Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=laudivan&show_icons=true&theme=dark&hide_border=true)
+[![roadmap.sh](https://roadmap.sh/card/tall/64ff22375ce9f4ca58b3c266?variant=dark&roadmaps=linux%2Ccomputer-science%2Ccyber-security%2Cshell-bash)](https://roadmap.sh)
