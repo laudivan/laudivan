@@ -42,6 +42,7 @@ I treat Infrastructure as Code, but I know how to fix it when the code breaks th
 I value direct communication and complex challenges.
 
 * **Email:** laudivan@gmail.com
+* **LinkedIn:** [Linked.In/in/laudivan](https://Linked.In/in/laudivan)
 * **Location:** Petrolina, Brazil (GMT-3)
 
 ---
